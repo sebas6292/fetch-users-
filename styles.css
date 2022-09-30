@@ -1,0 +1,41 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: system-ui, sans-serif;
+  color: black;
+  background-color: white;
+}
+
+#Btn {
+  margin-top: 20px;
+  margin-left: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: aqua;
+}
+
+.container {
+  margin: 20px;
+  padding: 5px;
+}
+
+section {
+  background-color: rgb(15, 160, 160);
+  border: solid navy 3px;
+  padding-bottom: 5px;
+  margin-bottom: 30px;
+  border-radius: 10px;
+  padding-left: 20px;
+  padding-top: 10px;
+}
+img {
+  border-radius: 10px;
+  margin-top: 10px;
+}
+.getdob {
+  margin-bottom: 25px;
+}
